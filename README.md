@@ -1,6 +1,6 @@
 # Introduction: 
 
-- 👋 Hi, I’m Hieu Huynh ([@jhuynh176](https://github.com/jhuynh176))
+- 👋 Hi, I’m Hieu Huynh ([@jhuynh176](https://github.com/jhuynh176))            
 
 - I am looking for an entry/junior level position as a Software Engineer in a dynamic firm that values my analytical and technical skills and provides scope for updating my knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth. 
 
@@ -28,6 +28,9 @@
 Please contact me at: 
 - Emaiil: [Link](jhuynh176@outlook.com)
 - LinkedIn: [Link](https://www.linkedin.com/in/jhuynh176)
+
+Sincere,
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="jhuyn176" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jhuyn176?trk=profile-badge">Hieu Huynh</a></div>
 
 <!---
 jhuynh176/jhuynh176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
