@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Hieu Huynh (@jhuynh176)
+# Introduction: 
+
+- 👋 Hi, I’m Hieu Huynh ([@jhuynh176](https://github.com/jhuynh176))
 
 - I am looking for an entry/junior level position as a Software Engineer in a dynamic firm that values my analytical and technical skills and provides scope for updating my knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth. 
 
@@ -22,7 +24,10 @@
 - SQL Course - [Click for Credential](https://www.codecademy.com/profiles/JHUYNH176/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
 - Transform Tables with SQL Course - [Click for Credential](https://www.codecademy.com/profiles/JHUYNH176/certificates/e5a7d252b2274abca4ea306d5fa4b4b6)
 
-Please contact me at: jhuynh176@outlook.com
+# **Contact**
+Please contact me at: 
+- Emaiil: [Link](jhuynh176@outlook.com)
+- LinkedIn: [Link](https://www.linkedin.com/in/jhuynh176)
 
 <!---
 jhuynh176/jhuynh176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
