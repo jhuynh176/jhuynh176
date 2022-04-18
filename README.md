@@ -26,7 +26,7 @@
 
 # **Contact**
 Please contact me at: 
-- Emaiil: [Link](jhuynh176@outlook.com)
+- Emaiil: jhuynh176@outlook.com
 - LinkedIn: [Link](https://www.linkedin.com/in/jhuynh176)
 
 Sincere,
