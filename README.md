@@ -27,7 +27,7 @@
 # **Contact**
 Please contact me at: 
 - Emaiil: jhuynh176@outlook.com
-- LinkedIn: [Link](https://www.linkedin.com/in/jhuynh176)
+- LinkedIn: [https://www.linkedin.com/in/jhuynh176](https://www.linkedin.com/in/jhuynh176)
 
 Sincere,
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="jhuyn176" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jhuyn176?trk=profile-badge">Hieu Huynh</a></div>
